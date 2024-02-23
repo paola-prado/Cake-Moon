@@ -1,6 +1,6 @@
 # Cake-Moon 🍰
 
-Cake Moon é um site responsivo inspirado no vídeo de Mr Web Designer, criado para explorar e praticar conceitos de design web. Este projeto tem como objetivo ser uma representação prática das técnicas e estilos apresentados no vídeo. 
+Cake Moon é um site responsivo inspirado no vídeo de Mr Web Designer, criado para explorar e praticar conceitos de web design. Este projeto tem como objetivo ser uma representação prática das técnicas e estilos apresentados no vídeo. 
 
 ## Demonstração 🔴
 Veja no link abaixo o site em funcionamento em qualquer dispositivo! 
